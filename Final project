@@ -64,7 +64,7 @@
 
   <header>
     <h1>Student Portfolio</h1>
-    <p>Hi, I am <b>Amsaprasanna P</b> | bachelor of  Computer Application student</p>
+    <p>Hi, I am <b> praveen kumar</b> | bachelor of  Computer Application student</p>
   </header>
 
   <nav>
@@ -85,8 +85,8 @@
   <section id="education">
     <h2>Education</h2>
     <div class="card">
-      <p><b> bachelor of computer application student</b> – vallammai women's college (2024-2027)</p>
-      <p><b>Higher Secondary</b> –  angavai sangavai govt girls higher sec School (2022-2024)</p>
+      <p><b> bachelor of computer application student</b> – Thirukovilur college of arts & science (2024-2027)</p>
+      <p><b>Higher Secondary</b> –  kabilar government boys higher secondary school(2022-2024)</p>
     </div>
   </section>
 
@@ -113,9 +113,9 @@
   <section id="contact">
     <h2>Contact</h2>
     <div class="card">
-      <p>Email: amsaprasannap@gmail.com</p>
-      <p>Phone: +91 6385264061</p>
-      <p>LinkedIn: linkedin.com/in/Amsaprasannap</p>
+      <p>Email: praveenkumarvelu11@gmail.com</p>
+      <p>Phone: +91 76049 63354</p>
+      <p>LinkedIn: linkedin.com/in/praveenkumar</p>
     </div>
   </section>
 
